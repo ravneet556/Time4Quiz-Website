@@ -1,8 +1,11 @@
 # Time4Quiz-Website
 
 Created a Website using HTML, CSS & Javascript.
+
 Used LocalStorage to save data.
+
 The Website shows the random questions of different categories and calculates the marks obtained. 
+
 Users can also attempt the test again.
 
 
